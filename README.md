@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi! I'm Mikusiek</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Mikusiek</h1>
 
 <h3 align="center">I am a beginner plugin developer and html and css developer. I have recently started creating mods for Farming Simulator</h3>
   <p align="center">
@@ -22,6 +22,6 @@
     <img alt="html" src="https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="css" src="https://img.shields.io/badge/-css%203-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
-    <img alt="Java" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   </p>
 <br>
