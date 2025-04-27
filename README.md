@@ -12,9 +12,6 @@
   <li>
     📖 <a href="https://mikusiek144.space/" target="_blank">Mikusiek144.space</a> WebSite
   </li>
-  <li>
-    🌐 <a href="https://WojanMC.pl/" target="_blank">WojanMC.pl</a> Pomocnik+
-  </li>
 </ul>
 
 <h3 align="left">Languages:</h3>
