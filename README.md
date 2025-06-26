@@ -13,12 +13,4 @@
     📖 <a href="https://mikusiek144.space/" target="_blank">Mikusiek144.space</a> WebSite
   </li>
 </ul>
-
-<h3 align="left">Languages:</h3>
-  <p align="center">
-    <img alt="html" src="https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/-css%203-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  </p>
 <br>
